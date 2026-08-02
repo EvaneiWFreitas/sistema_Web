@@ -2,7 +2,7 @@
 
 ## 📌 Sobre o Projeto
 
-O **Curso Web** é um sistema desenvolvido durante os estudos do framework **CodeIgniter 3**, com o objetivo de aprender e aplicar os principais conceitos do padrão **MVC (Model-View-Controller)**, integração com banco de dados MySQL e desenvolvimento de aplicações web utilizando PHP.
+O **sistema_Web** é um sistema desenvolvido durante os estudos do framework **CodeIgniter 3**, com o objetivo de aprender e aplicar os principais conceitos do padrão **MVC (Model-View-Controller)**, integração com banco de dados MySQL e desenvolvimento de aplicações web utilizando PHP.
 
 O projeto serve como base para a criação de sistemas web completos, permitindo compreender desde a configuração inicial do framework até a implementação de funcionalidades de CRUD (Create, Read, Update e Delete).
 
