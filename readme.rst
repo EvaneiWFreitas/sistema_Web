@@ -66,7 +66,7 @@ Durante o desenvolvimento deste projeto foram praticados:
 
 ## 👨‍💻 Autor
 
-**William Nascimento**
+** Evanei Freitas **
 
 Estudante de Engenharia de Software
 
