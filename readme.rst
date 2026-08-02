@@ -1,70 +1,75 @@
-###################
-What is CodeIgniter
-###################
+# 📚 sistema_Web - Sistema em CodeIgniter 3
 
-CodeIgniter is an Application Development Framework - a toolkit - for people
-who build web sites using PHP. Its goal is to enable you to develop projects
-much faster than you could if you were writing code from scratch, by providing
-a rich set of libraries for commonly needed tasks, as well as a simple
-interface and logical structure to access these libraries. CodeIgniter lets
-you creatively focus on your project by minimizing the amount of code needed
-for a given task.
+## 📌 Sobre o Projeto
 
-*******************
-Release Information
-*******************
+O **sistema_Web** é um sistema desenvolvido durante os estudos do framework **CodeIgniter 3**, com o objetivo de aprender e aplicar os principais conceitos do padrão **MVC (Model-View-Controller)**, integração com banco de dados MySQL e desenvolvimento de aplicações web utilizando PHP.
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
+O projeto serve como base para a criação de sistemas web completos, permitindo compreender desde a configuração inicial do framework até a implementação de funcionalidades de CRUD (Create, Read, Update e Delete).
 
-**************************
-Changelog and New Features
-**************************
+---
 
-You can find a list of all changes for each release in the `user
-guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
+## 🚀 Tecnologias Utilizadas
 
-*******************
-Server Requirements
-*******************
+- PHP 8.x
+- CodeIgniter 3
+- MySQL
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript
+- jQuery
+- Apache (XAMPP)
 
-PHP version 5.6 or newer is recommended.
+---
 
-It should work on 5.3.7 as well, but we strongly advise you NOT to run
-such old versions of PHP, because of potential security and performance
-issues, as well as missing features.
+## 🎯 Objetivos do Projeto
 
-************
-Installation
-************
+- Aprender a estrutura do CodeIgniter 3.
+- Trabalhar com o padrão MVC.
+- Realizar conexão com banco de dados MySQL.
+- Criar Controllers.
+- Criar Models.
+- Criar Views.
+- Trabalhar com Rotas.
+- Utilizar Helpers e Libraries.
+- Implementar operações CRUD.
+- Organizar um projeto seguindo boas práticas.
 
-Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
-of the CodeIgniter User Guide.
+---
 
-*******
-License
-*******
+## ⚙️ Configuração do Ambiente
 
-Please see the `license
-agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
+### Requisitos
 
-*********
-Resources
-*********
+- PHP 7.4 ou superior
+- Apache
+- MySQL
+- XAMPP ou WAMP
+- Navegador Web
 
--  `User Guide <https://codeigniter.com/docs>`_
--  `Language File Translations <https://github.com/bcit-ci/codeigniter3-translations>`_
--  `Community Forums <http://forum.codeigniter.com/>`_
--  `Community Wiki <https://github.com/bcit-ci/CodeIgniter/wiki>`_
--  `Community IRC <https://webchat.freenode.net/?channels=%23codeigniter>`_
+---
 
-Report security issues to our `Security Panel <mailto:security@codeigniter.com>`_
-or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
+## 📖 Aprendizados
 
-***************
-Acknowledgement
-***************
+Durante o desenvolvimento deste projeto foram praticados:
 
-The CodeIgniter team would like to thank EllisLab, all the
-contributors to the CodeIgniter project and you, the CodeIgniter user.
+- Organização em MVC
+- Comunicação entre Controller e Model
+- Manipulação de banco de dados
+- Configuração do framework
+- Criação de páginas dinâmicas
+- Desenvolvimento de CRUD
+- Estruturação de aplicações web
+
+---
+---
+
+## 👨‍💻 Autor
+
+** Evanei Freitas **
+
+Estudante de Engenharia de Software
+
+Desenvolvedor Web PHP | CodeIgniter | MySQL
+
+---
