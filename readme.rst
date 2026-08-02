@@ -1,4 +1,4 @@
-# 📚 Curso Web - Sistema em CodeIgniter 3
+# 📚 sistema_Web - Sistema em CodeIgniter 3
 
 ## 📌 Sobre o Projeto
 
