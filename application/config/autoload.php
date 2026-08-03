@@ -90,7 +90,7 @@ $autoload['drivers'] = array();
 |    $autoload['helper'] = array('url', 'file');
 */
 // CORRIGIDO: Agora 'html' e 'form' são dois helpers separados.
-$autoload['helper'] = array('url', 'html', 'form');
+$autoload['helper'] = array('url', 'html', 'form', 'funcoes');
 
 /*
 | -------------------------------------------------------------------

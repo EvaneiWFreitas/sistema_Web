@@ -1,0 +1,35 @@
+body{
+    background:#f5f5f5;
+}
+
+.sidebar{
+    min-height:100vh;
+    background:#fafafa;
+    border-right:1px solid #ddd;
+    padding:0;
+}
+
+.sidebar h4{
+    margin:0;
+    padding:15px;
+    background:#efefef;
+    border-bottom:1px solid #ddd;
+}
+
+.sidebar .nav>li>a{
+    color:#428bca;
+    border-bottom:1px solid #eee;
+}
+
+.sidebar .nav>li>a:hover{
+    background:#f3f3f3;
+}
+
+h1{
+    margin-top:25px;
+    margin-bottom:20px;
+}
+
+.panel{
+    border-radius:3px;
+}
